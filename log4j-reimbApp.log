@@ -1,0 +1,16 @@
+
+2021-12-20 11:45:02 INFO  ReimbursementsDaoImpl:42 - getAllReimbursements
+2021-12-20 12:20:36 INFO  ReimbursementsDaoImpl:42 - getAllReimbursements
+2021-12-20 12:21:39 INFO  ReimbursementsDaoImpl:42 - getAllReimbursements
+2021-12-20 12:21:46 INFO  ReimbursementsDaoImpl:42 - getAllReimbursements
+2021-12-20 12:22:24 INFO  ReimbursementsDaoImpl:42 - getAllReimbursements
+2021-12-20 12:23:23 INFO  ReimbursementsDaoImpl:42 - getAllReimbursements
+2021-12-20 12:23:35 INFO  ReimbursementsDaoImpl:42 - getAllReimbursements
+2021-12-20 12:23:56 INFO  ReimbursementsDaoImpl:42 - getAllReimbursements
+2021-12-20 12:25:54 INFO  ReimbursementsDaoImpl:42 - getAllReimbursements
+2021-12-20 12:26:03 INFO  ReimbursementsDaoImpl:42 - getAllReimbursements
+2021-12-20 12:34:02 INFO  ReimbursementsDaoImpl:42 - getAllReimbursements
+2021-12-20 14:08:14 INFO  ReimbursementsDaoImpl:42 - getAllReimbursements
+2021-12-20 14:08:58 INFO  ReimbursementsDaoImpl:69 - getReimbursements
+2021-12-20 14:10:12 INFO  ReimbursementsDaoImpl:97 - createReimbursement
+2021-12-20 14:10:13 INFO  ReimbursementsDaoImpl:69 - getReimbursements
